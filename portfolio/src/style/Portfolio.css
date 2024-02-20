@@ -1,0 +1,18 @@
+.card-map {
+    width: 50%;
+    display: inline-block;
+}
+
+@media only screen and (max-width: 768px) {
+    .card-map {
+    width: 100%;
+    display: inline-block;
+}
+}
+
+@media only screen and (min-width: 1281px) {
+    .card-map {
+        width: 55%;
+        display: inline-block;
+    }
+}

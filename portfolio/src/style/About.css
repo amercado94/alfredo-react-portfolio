@@ -1,0 +1,13 @@
+.headshot {
+    width: 22%;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+
+.about-me {
+    font-size: 25px;
+}
+
+.bg-dark {
+    margin-bottom: 20px;
+}
