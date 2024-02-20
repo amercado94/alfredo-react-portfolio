@@ -11,3 +11,11 @@
 .bg-dark {
     margin-bottom: 20px;
 }
+
+@media only screen and (max-width: 768px) {
+    .headshot {
+        width: 32%;
+        border-radius: 50%;
+        margin-top: 15px;
+    }
+}

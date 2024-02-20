@@ -11,8 +11,8 @@ const Navigation = () => {
         <Navbar expand="lg" className="bg-body-tertiary">
           <Container>
             <Navbar id="basic-navbar-nav">
-              <Navbar.Toggle aria-controls="basic-navbar-nav" />
-              <Navbar.Collapse id="basic-navbar-nav">
+              <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+              <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="me-auto">
                   <Nav.Link as={Link} to="/alfredo-react-portfolio/about" className="navLinks">About Me</Nav.Link>
                   <Nav.Link as={Link} to="/alfredo-react-portfolio/portfolio" className="navLinks">Portfolio</Nav.Link>
