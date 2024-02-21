@@ -15,7 +15,7 @@ function App() {
     <BrowserRouter>
     <Header />
     <Routes>
-      <Route path="/alfredo-react-portfolio/" element={<About />} />
+      <Route path="/" element={<About />} />
       <Route path="/alfredo-react-portfolio/about" element={<About />} />
       <Route path='/alfredo-react-portfolio/portfolio' element={<Portfolio />} />
       <Route path='/alfredo-react-portfolio/contact' element={<Contact />} />
